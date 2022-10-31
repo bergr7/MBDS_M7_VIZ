@@ -1,0 +1,14 @@
+__pycache__
+*.egg-info/
+build
+.DS_Store
+dump.rdb
+setpath.sh
+dist
+.env*
+.venv
+.coverage
+*.ipynb_checkpoints/
+logfile.log
+*.flagged/
+*.logs/
